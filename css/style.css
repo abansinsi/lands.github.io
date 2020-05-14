@@ -2382,6 +2382,12 @@ h2.typoh2 {
     background: #3b5998;
 }
 
+.w3_youtube:hover {
+	border: 1px solid #E80000;
+	background: #E80000;
+
+}
+
 .w3_twitter:hover {
     border: 1px solid #1da1f2;
     background: #1da1f2;
